@@ -8,9 +8,9 @@
 #### Установка node
 ![alt](/lr1/screen.png)
 #### DTD
-.[Ссылка на репозиторий с XML и DTD документом](https://github.com/DenisNyux/xml_part2)
+[Ссылка на репозиторий с XML и DTD документом](https://github.com/DenisNyux/xml_part2)
 #### Выполнение упражнений
-.[Ссылка на выполненные упражнения](https://github.com/DenisNyux/p13_ex1-5)
+[Ссылка на выполненные упражнения](https://github.com/DenisNyux/p13_ex1-5)
 # 11.09.2019 - 15.09.2019 – неделя 2
 ##### XSD
 ##### Выполнение упражнений
@@ -18,4 +18,4 @@
 ![alt](/lr2/2-1.png)
 
 Стр. 115, упражнение 9-3
-.[Ссылка на выполненную работу](https://denisnyux.github.io/p115_ex9-3/)
+[Ссылка на выполненную работу](https://denisnyux.github.io/p115_ex9-3/)
