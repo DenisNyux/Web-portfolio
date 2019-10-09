@@ -6,7 +6,7 @@
 
 
 #### Установка node
-![alt](/lr1/screen.png)
+![alt](Week1/node_installation/screen.png)
 #### DTD
 [Ссылка на репозиторий с XML и DTD документом](https://github.com/DenisNyux/xml_part2)
 #### Выполнение упражнений
@@ -15,7 +15,7 @@
 ##### XSD
 ##### Выполнение упражнений
 Стр. 30, упражнение 2-1
-![alt](/lr2/2-1.png)
+![alt](/home/denisnyux/School/2kurs/web/toportfolio/Web-porfolio/Week2/ex2-3/2-1.png)
 
 Стр. 115, упражнение 9-3
 [Ссылка на выполненную работу](https://denisnyux.github.io/p115_ex9-3/)
