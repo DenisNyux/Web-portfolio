@@ -10,7 +10,7 @@
 
 [Задание по DTD и XML](https://github.com/DenisNyux/Web-portfolio/tree/master/Week1/xml_dtd)
 
-[diff to html](Whttps://github.com/DenisNyux/Web-portfolio/tree/master/Week5/diff_task)
+[diff to html](https://github.com/DenisNyux/Web-portfolio/tree/master/Week5/diff_task)
 
 ### Тема 2
 
