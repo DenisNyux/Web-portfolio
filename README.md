@@ -8,9 +8,9 @@
 
 Языковые средства веб-технологий на основе XML и CSS и развёртывание среды разработки компонентов  аппаратно-программных комплексов.
 
-[Задание по DTD и XML](Week1/xml_dtd)
+[Задание по DTD и XML](https://github.com/DenisNyux/Web-portfolio/tree/master/Week1/xml_dtd)
 
-[diff to html](Week5/diff_task)
+[diff to html](Whttps://github.com/DenisNyux/Web-portfolio/tree/master/Week5/diff_task)
 
 ### Тема 2
 
@@ -24,11 +24,11 @@
 
 Элементы асинхронного и событийно-ориентированного клиентского веб-программирования.
 
-[json схема](Week8/json_intro)
+[json схема](https://github.com/DenisNyux/Web-portfolio/tree/master/Week8/json_intro)
 
-[Список валют](srs/currencies)
+[Список валют](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/currencies)
 
-[Галерея](srs/gallery/index.js)
+[Галерея](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/gallery)
 
 ### Тема 4
 
