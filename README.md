@@ -48,6 +48,12 @@
 
 # Задания из moodle
 
+### ТОП 10
+
+[10 (почти) заданий по массивам](https://github.com/DenisNyux/Web-portfolio/tree/master/Week7)
+
+[10 (почти) заданий по функциям](https://github.com/DenisNyux/Web-portfolio/tree/master/Week5/func_tasks)
+
 ### Week 1
 
 [Первые 5 заданий из книжки](https://github.com/DenisNyux/Web-portfolio/tree/master/Week1/ex_from1to5)
