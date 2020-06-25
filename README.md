@@ -26,39 +26,37 @@
 
 [json схема](https://github.com/DenisNyux/Web-portfolio/tree/master/Week8/json_intro)
 
-[Список валют](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/currencies)
+[Список валют](https://kodaktor.ru/aa71249), [source](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/currencies)
 
-[Галерея](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/gallery)
+[Галерея](https://kodaktor.ru/15f7253), [source](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/gallery)
 
 ### Тема 4
 
 Экспериментальная проверка корректности функционирования (тестирование) веб-приложений
 
-[Подключение линтера в задании с Babel](Week4/babel/.eslintrc)
+[Подключение линтера в задании с Babel](https://github.com/DenisNyux/Web-portfolio/tree/master/Week4/babel)
 
-[Инструменты отладки в браузере](srs/chrome_breackpoints)
+[Инструменты отладки в браузере](https://github.com/DenisNyux/Web-portfolio/tree/master/srs/chrome_breackpoints)
 
 
 ### Задания ИСР и ВСР
 
-[Презентация по идиоматике JavaScript и паттернам проектирования]
-
 [Корзина товаров](https://denisnyux.github.io/drag-drop/)
 
-[Считывание из json и модификация DOM](https://kodaktor.ru/?!=19112019_77171)
+[Считывание из json и модификация DOM](https://kodaktor.ru/19112019_77171)
 
 
 # Задания из moodle
 
 ### Week 1
 
-[Первые 5 заданий из книжки](Week1/ex_from1to5)
+[Первые 5 заданий из книжки](https://github.com/DenisNyux/Web-portfolio/tree/master/Week1/ex_from1to5)
 
-[Задание по DTD и XML](Week1/xml_dtd)
+[Задание по DTD и XML](https://github.com/DenisNyux/Web-portfolio/tree/master/Week1/xml_dtd)
 
 ### Week 2 
 
-[Упражнение 2-3 из книжки](https://github.com/DenisNyux/Web-portfolio/tree/master/Week2/p30_ex2-1)
+[Упражнение 2-3 из книжки](https://github.com/DenisNyux/Web-portfolio/tree/master/Week2/p30_ex2-3)
 
 [Упражнение 9-3 из книжки](https://denisnyux.github.io/p115_ex9-3/)
 
@@ -110,15 +108,15 @@
 
 ### Week 10
 
-[Задание на извлечение списка книг](https://kodaktor.ru/?!=19112019_77171)
+[Задание на извлечение списка книг](https://kodaktor.ru/19112019_77171)
 
 ### Week 11
 
-[Задание на fetch](https://kodaktor.ru/?!=13112018_849d8)
+[Задание на fetch](https://kodaktor.ru/13112018_849d8)
 
 ### Week 12
 
-[События и коммуникация компонентов](https://kodaktor.ru/?!=custom_86516)
+[События и коммуникация компонентов](https://kodaktor.ru/custom_86516)
 
-[iremove](https://kodaktor.ru/?!=iremove_a65cd)
+[iremove](https://kodaktor.ru/iremove_a65cd)
 
